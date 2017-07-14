@@ -1,4 +1,4 @@
-# mymap
+
 <!DOCTYPE html>
 <html>
   <head>
